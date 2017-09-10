@@ -98,6 +98,14 @@
             android:text="ORDER"
             android:textSize="20sp"
             android:onClick="submitOrder"/>
+
+	<Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="extra"
+            android:textSize="20sp"
+            android:onClick="submitOrder"/>
+
     </LinearLayout>
 
 </LinearLayout>
